@@ -7,7 +7,7 @@
 2.	Only legal move allowed, no moving into your own friendly territory
 3.	Capture system
 4.	Each piece moves as they are supposed to move
-⋅⋅* Pawn moves forward twice in the beginning, one tile thereafter
+* Pawn moves forward twice in the beginning, one tile thereafter
 ⋅⋅* Rook moves horizontally and vertically
 ⋅⋅* Bishop moves diagonally both ways, within their starting tile
 ⋅⋅* Knight moves in ‘L’ shape
