@@ -14,6 +14,8 @@
     + King moves within a radius of one tile
     + Queen moves as a combination of Rook and Bishop
 
+
+
 ### Known bugs and things that need further development:
 1.	Threat system. Currently, if the king gets checked, nothing happens
 2.	Same thing with pined pieces. Legally, pined pieces cannot move, but that has not been developed yet
