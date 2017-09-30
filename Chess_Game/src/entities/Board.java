@@ -126,6 +126,7 @@ public class Board {
 
 	public static void performAction(int x, int y)
 	{
+		//second commit!
 		starter.Main.update(true);
 		// if you just clicked on a piece, and there is no piece currently selected
 		if (isTherePieceAt(x, y) != null && selected_piece == null)
