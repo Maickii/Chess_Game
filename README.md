@@ -2,6 +2,8 @@
 
 ## Play a java chess game against your friends!
 
+_Note:_ This project is still under development
+
 ### Game includes:
 1.	Only play during your turn!
 2.	Only legal move allowed, no moving into your own friendly territory
