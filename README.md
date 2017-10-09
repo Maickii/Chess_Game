@@ -19,6 +19,7 @@ _Note:_ This project is still under development
 
 
 ### Known bugs and things that need further development:
+0.  Write documentation and comments
 1.	Threat system. Currently, if the king gets checked, nothing happens
 2.	Same thing with pined pieces. Legally, pined pieces cannot move, but that has not been developed yet
 3.	Special moves:
